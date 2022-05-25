@@ -1,0 +1,6 @@
+tenancy_ocid        = "ocid1.tenancy.oc1..aaaaaaaabpcqwc2mdncbkwejc47biqefzpqgfsgmafkdsgfm6rochuh42gua"
+user_ocid           = "ocid1.user.oc1..aaaaaaaakfeqegbrk5d7byjmelgqa7vpy5j6wol4jlmpihd7nunph7tc3zgq"
+private_key_path    = "/Users/preegosw/.oci/my-oci-key.pem"
+fingerprint         = "42:03:6d:5b:c3:cc:87:5e:bf:42:0b:af:e3:71:0f:ff"
+region              = "ap-melbourne-1"
+root_compartment_id = "ocid1.tenancy.oc1..aaaaaaaabpcqwc2mdncbkwejc47biqefzpqgfsgmafkdsgfm6rochuh42gua"
